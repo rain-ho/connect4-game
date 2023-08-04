@@ -114,7 +114,8 @@ git push origin feature/AmazingFeature
 ## Authors
 
 * **Rafa** - *Computer Science Student* - [Rafa](https://github.com/rain-ho/) 
-
+* **Casca** - *Computer Science Student* 
+  
 ## Acknowledgements
 
 * [Connect4 Game Solver](http://connect4.gamesolver.org)
