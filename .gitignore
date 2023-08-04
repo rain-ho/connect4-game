@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# LeaderBoard file
+LeaderBoard.txt
+
+# Qt Project files
+*.pro
+*.pro.user
