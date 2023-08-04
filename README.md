@@ -98,11 +98,18 @@ Contributions are what make the open source community such an amazing place to b
 
 1. Fork the Project
 2. Create your Feature Branch
-```sh git checkout -b feature/AmazingFeature```
-4. Commit your Changes
-```sh git commit -m "Added some AmazingFeature" -m "This is the AmazingFeature Description" ```
-6. Push to the Branch (`git push origin feature/AmazingFeature`)
-7. Open a Pull Request
+```sh
+git checkout -b feature/AmazingFeature
+```
+3. Commit your Changes
+```sh
+git commit -m "Added some AmazingFeature" -m "This is the AmazingFeature Description"
+```
+4. Push to the Branch
+```sh
+git push origin feature/AmazingFeature
+```
+5. Open a Pull Request
 
 ## Authors
 
