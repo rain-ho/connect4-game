@@ -80,7 +80,7 @@ Here are the main instructions:
 3.If returning to a previous game, continue playing right where you left off.
 4.Alternatively, click any button to proceed.
 
-### Game Controls
+## Game Controls
 When playing, use the following controls:
 1.Press any number in [1-7] to place your piece in the corresponding column.
 2.Press 0 to undo one or more moves if needed.
