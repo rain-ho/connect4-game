@@ -1,8 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/rain-ho/connect4-game">
-    <img src="images/preview.png" alt="Logo" width="80" height="80">
-  </a>
+  ![Screen Shot](images/connect4.png)
+  
 
   <h3 align="center">Connect 4 Game
 </h3>
