@@ -31,8 +31,8 @@
 *.out
 *.app
 
-# LeaderBoard file
-LeaderBoard.txt
+# LeaderBoard and return game file
+*.txt
 
 # Qt Project files
 *.pro
