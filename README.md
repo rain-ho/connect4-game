@@ -31,7 +31,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-  *[Game controls](#game-controls)
+  * [Installation](#installation)
 * [Contributing](#contributing)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
