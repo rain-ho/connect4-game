@@ -13,7 +13,7 @@
     <a href="https://github.com/rain-ho/connect4-game"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/rain-ho/connect4-game/Connect4.exe">View Demo</a>
+    <a href="https://github.com/rain-ho/connect4-game">View Demo</a>
     .
     <a href="https://github.com/rain-ho/connect4-game/issues">Report Bug</a>
     .
