@@ -15,9 +15,9 @@
     <br/>
     <a href="https://github.com/rain-ho/connect4-game">View Demo</a>
     .
-    <a href="https://github.com/rain-ho/connect4-game/issues">Report Bug</a>
+    <a href="https://github.com/rain-ho/connect4-game/issues">Issues</a>
     .
-    <a href="https://github.com/rain-ho/connect4-game/issues">Request Feature</a>
+    <a href="https://github.com/rain-ho/connect4-game/discussions">Discussions</a>
   </p>
 </p>
 
