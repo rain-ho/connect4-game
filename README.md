@@ -1,6 +1,7 @@
 <br/>
 <p align="center">
-  ![Screen Shot](images/connect4.png)
+  [![Screen Shot](images/connect4.png)](https://github.com/rain-ho/connect4-game)
+
 
   <h3 align="center">Connect 4 Game
 </h3>
