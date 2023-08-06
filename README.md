@@ -112,7 +112,7 @@ git push origin feature/AmazingFeature
 
 ## Authors
 
-* **Rafa** - *Computer Science Student* - [Rafa](https://github.com/rain-ho/) 
+* **[Rafa](https://github.com/rain-ho/)** - *Computer Science Student*
 * **Casca** - *Computer Science Student* 
   
 ## Acknowledgements
